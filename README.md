@@ -46,32 +46,33 @@ Alur dari Codingan dapat ditelaah dari Alur Berikut:
 ![1  Intellij_Tampilan awal ketika code dijalankan](https://github.com/user-attachments/assets/bd7881fa-0c28-4f82-842a-ab027070e0a8)
 
 2. Bukti Bahwa Waifu merupakan ComboBox
-![1  Intellij_Tampilan awal ketika code dijalankan](https://github.com/user-attachments/assets/1dda8181-c6f5-4b17-8161-9bce6e4c6de8)
+![2  Intellij_Bukti bahwa Waifu merupakan ComboBox](https://github.com/user-attachments/assets/38ef7b28-59e9-409b-b528-e33d25171c94)
 
 3. Bukti Bahwa Hobby merupakan ComboBox
-![1  Intellij_Tampilan awal ketika code dijalankan](https://github.com/user-attachments/assets/9727a186-925a-41da-8692-9d4526aa2ba6)
+![3  Intellij_Bukti bahwa Hobby merupakan ComboBox](https://github.com/user-attachments/assets/bdcafe9d-db1a-40d6-8703-aca912e6fced)
 
 4. Tampilan ketika data berhasil ditambahkan
-![1  Intellij_Tampilan awal ketika code dijalankan](https://github.com/user-attachments/assets/97f513f4-94b0-4842-90a2-d34bca341061)
+![4  Intellij_Tampilan ketika data berhasil di tambahkan](https://github.com/user-attachments/assets/4cf3d60e-2889-48c9-8513-507aab7e41e7)
 
 5. Tampilan ketika data sudah diisi namun memilih untuk menekan tombol cancel
-![1  Intellij_Tampilan awal ketika code dijalankan](https://github.com/user-attachments/assets/2bc0399d-6bb2-4ece-89ad-8d6e06e7ed83)
+![5  Intellij_Tampilan ketika data sudah diisi namun menekan tombol cancel](https://github.com/user-attachments/assets/55a6ab06-a161-456a-8b30-c2bcc8cd4026)
 
 6. Tampilan ketika proses Cancel dan menekan tombol yes
-![1  Intellij_Tampilan awal ketika code dijalankan](https://github.com/user-attachments/assets/167b672f-bd64-4971-9c91-e475ddc1cadf)
+![6  Intellij_Tampilan ketika proses Cancel menekan Yes](https://github.com/user-attachments/assets/c184cce8-770b-49b3-84ce-7bf29df2924a)
 
 7. Tampilan ketika proses Cancel dan menekan tombol no
-![1  Intellij_Tampilan awal ketika code dijalankan](https://github.com/user-attachments/assets/d8dba504-c624-4af2-87fa-781b17e14850)
+![7  Intellij_ Tampilan ketika proses Cancel menekan tombol No](https://github.com/user-attachments/assets/63e1c5b5-48c1-48dc-a03c-00b6847d84fb)
 
 8. Tampilan ketika ingin menghapus data dengan menekan tombol delete
-![1  Intellij_Tampilan awal ketika code dijalankan](https://github.com/user-attachments/assets/a21874b7-ea03-4847-a98f-7e5561c1c11f)
+![8  Intellij_Tampilan ketika ingin menghapus data terdapat confirmation prompt](https://github.com/user-attachments/assets/2354717a-4291-4219-ae01-d1d0c4fa68f7)
 
 9. Tampilan ketika proses Delete dan menekan tombol yes
-![1  Intellij_Tampilan awal ketika code dijalankan](https://github.com/user-attachments/assets/76895814-8545-4775-88c7-672a7c5bf193)
+![9  Intellij_Tampilan ketika proses Delete menekan tombol no](https://github.com/user-attachments/assets/14b2740a-9eba-42f5-9e62-cebfb00eb964)
 
 10. Tampilan ketika proses Delete dan menekan tombol no
-![1  Intellij_Tampilan awal ketika code dijalankan](https://github.com/user-attachments/assets/6027c018-812c-4bb8-9b0d-7f601ff98237)
+![10  Intellij_Tampilan ketika proses Delete menekan tombol yes](https://github.com/user-attachments/assets/d0dfd6f5-4d3d-4722-8914-1db9e210e335)
 
 11. Tampilan ketika proses Update di database yang sudah tersedia
-![image](https://github.com/user-attachments/assets/5abd6b4b-5434-4b06-8b35-17fedf27d0e1)
+![11  Intellij_Tampilan ketika update data yang sudah tersedia di database statis](https://github.com/user-attachments/assets/5134c7de-2046-4c5f-9823-eafc950ec9b3)
+
 
